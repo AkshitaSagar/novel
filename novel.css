@@ -1,0 +1,29 @@
+#firstletter::first-letter{
+    color: red;
+    font-size: xx-large;
+}
+.align{
+    margin-left: 300;
+    margin-right: 300;
+    border-color: black;
+    border-style: solid;
+    
+}
+p{
+    margin-left: 70;
+    margin-top: 30px;
+    margin-right: 70;
+    border-color: red;
+    border-style: solid;
+    margin-bottom: 60px;
+    text-align: justify;
+    
+}
+#box{
+   border-color: lightblue;
+   font-size: xx-large;
+   text-align: center;
+}
+body{
+    background-color: lightblue;
+}
